@@ -1,0 +1,1 @@
+curl -u "username:password" -H "Authorization: token <Token>" -H "Content-type:json" https://api.github.com/repos/LondheShubham153/tws-portfolio/forks -d '{"name":"tws-portfolio","default_branch_only":true}'
