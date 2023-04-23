@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/11693288/how-to-create-a-new-repo-at-github-using-git-bash
+
+https://stackoverflow.com/questions/27456773/add-a-new-project-to-github-via-bash-command/27456812#27456812
+
+https://stackoverflow.com/questions/11693288/how-to-create-a-new-repo-at-github-using-git-bash
+
+https://teamtreehouse.com/community/how-does-one-add-a-repository-to-github-using-git-commandline-calls-only
+
+git API - https://docs.github.com/en/rest/repos?apiVersion=2022-11-28#create
+
+https://reqbin.com/req/curl/c-haxm0xgr/curl-basic-auth-example
